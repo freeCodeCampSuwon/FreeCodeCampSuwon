@@ -30,6 +30,9 @@ Projects that Free Code Camp provides or others
 ## Study
 
 * [05.09] [Java Servlet Page(JSP)](https://www.udemy.com/jsp-servlet-free-course/)
+  - Prerequisite
+      - Eclipse(Java EE edition)
+      - Apache Tomcat Server v.6~9
 
 * [05.12] [React](https://www.udemy.com/react-redux/)
 
