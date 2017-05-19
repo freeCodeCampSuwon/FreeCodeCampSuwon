@@ -38,9 +38,12 @@ Projects that Free Code Camp provides or others
       - Apache Tomcat Server v.6~9
 
 * [05.12] [React](https://www.udemy.com/react-redux/)
-
+  - Prerequisite
+      - Editor(Atom) with Packages and themes (theme: monokai, packages: [stylefmt, linter, emmet, react, PlatformIO IDE Terminal])
+      - [Boilerplate](https://github.com/freeCodeCampSuwon/ReduxSimpleStarter)
+* [05.19] [React](https://www.udemy.com/react-redux/)
 
 
 ## Hackathons (2017)
-
+* [Application Deadline] [Hackathon](link)
 * [~ 05.11 11:00] [NAVER HACK DAY](https://form.office.naver.com/form/responseView.cmd?formkey=OGVjMDAxZDQtMjRmZC00Njk0LWJiMjEtNWIxN2U1YmY3N2Fh&sourceId=urlshare)
