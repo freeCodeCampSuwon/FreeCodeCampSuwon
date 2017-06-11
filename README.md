@@ -47,3 +47,4 @@ Projects that Free Code Camp provides or others
 ## Hackathons (2017)
 * [Application Deadline] [Hackathon](link)
 * [~ 05.11 11:00] [NAVER HACK DAY](https://form.office.naver.com/form/responseView.cmd?formkey=OGVjMDAxZDQtMjRmZC00Njk0LWJiMjEtNWIxN2U1YmY3N2Fh&sourceId=urlshare)
+* [~ 2017-07-01 00:00] [T hackathon - AI Hackathon with NVIDIA](https://developers.sktelecom.com/story/hackathon/detail.do?hackathonid=14)
